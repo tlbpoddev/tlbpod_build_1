@@ -1,12 +1,12 @@
 {
-  "spotify": "",
+  "spotify": "https://open.spotify.com/show/2q1Kw2LrvQ2DxLtutOg8Dq",
   "googlePodcast": "",
-  "applePodcast": "",
+  "applePodcast": "https://podcasts.apple.com/us/podcast/the-totally-legitimate-business-podcast/id1676251295",
   "easyPodcast": "",
-  "amazonMusic": "",
+  "amazonMusic": "https://music.amazon.com/podcasts/be9c6e68-59ff-4d7e-9a5e-8ece00d72e06/the-totally-legitimate-business-podcast",
   "fountain": "",
   "ivoox": "",
   "pocketcasts": "",
-  "deezer": "",
-  "acastPodcasts": ""
+  "deezer": "https://www.deezer.com/uk/show/5812277",
+  "podbean": "https://www.podbean.com/podcast-detail/9aaak-2a8e63/The-Totally-Legitimate-Business-Podcast"
 }

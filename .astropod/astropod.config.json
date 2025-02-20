@@ -1,23 +1,25 @@
 {
-  "copyright": "",
+  "copyright": "© 2025 Totally Legitimate Business Podcast. All rights reserved.",
   "theme": "light",
-  "fundingText": "",
-  "author": "Author's name",
-  "name": "Podcast Name",
-  "banner": "/banner.webp",
-  "pageSize": 15,
-  "fundingUrl": "",
-  "owner": "",
+  "fundingText": "Support us on Patreon!",
+  "author": "James Oliva",
+  "name": "The Totally Legitimate Business Podcast",
+ "banner": "/banner.webm",
+ "cover": "/cover.jpg",
+ "pageSize": 15,
+  "fundingUrl": "https://www.patreon.com/TheTLBPodcast",
+  "owner": "The TLB Podcast Team",
   "favicon": "/favicon.svg",
-  "explicit": false,
+  "explicit": true,
   "cover": "/cover.jpg",
   "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "A short description of your podcast. We suggest creating a podcast description between 600-900 characters or 120-170 words in length.",
+  "link": "https://totallylegitimatebusiness.netlify.app",
+  "email": "contact@tlbpodcast.com",
+  "description": "The Totally Legitimate Business Podcast explores the worlds of business, technology, and conspiracy theories, mixing humor with insightful conversations. Tune in for intriguing discussions, special guests, and plenty of laughs!",
   "category": [
     "Technology",
-    "Business"
+    "Business",
+    "Comedy"
   ],
-  "feedSize": ""
+  "feedSize": 50
 }

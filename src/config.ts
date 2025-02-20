@@ -1,2 +1,2 @@
-export const SITE_TITLE = 'Astropod | Host your podcast for free';
-export const SITE_DESCRIPTION = 'Astropod is a free and open-source template for host podcast using GitHub and GitHub-Pages.';
+export const SITE_TITLE = 'TotallyLegitimate.Business | Podcast Website';
+export const SITE_DESCRIPTION = 'Home of The Totally Legitimate Business Podcasts, hosted by James Oliva, is one man\'s attempt to score a hole in one, using a golf ball sized understanding of reality. ';
