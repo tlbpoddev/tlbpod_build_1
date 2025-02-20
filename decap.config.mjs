@@ -66,7 +66,6 @@ export default function dcapconfig() {
               { name: "cover", widget: "image", label: "Cover | Recomended Size 1400x1400" },
               { name: "banner", widget: "image", label: "Banner | Recomended Size 960x320" },
               { name: "favicon", widget: "image", label: "Favicon" },
-
               { name: "author", widget: "string", label: "Author" },
               {
                 name: "email",
@@ -134,6 +133,9 @@ export default function dcapconfig() {
               { name: "telegram", widget: "string", label: "Telegram", required: false },
               { name: "linkedin", widget: "string", label: "LinkedIn", required: false },
               { name: "newsletter", widget: "string", label: "Newsletter", required: false },
+              { name: "patreon", widget: "string", label: "Patreon", required: false },
+              { name: "tiktok", widget: "string", label: "TikTok", required: false },
+              { name: "linktree", widget: "string", label: "Linktree", required: false },
             ],
           },
         ],
