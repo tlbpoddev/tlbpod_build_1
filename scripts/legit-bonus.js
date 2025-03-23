@@ -1,0 +1,1 @@
+<script>document.getElementsByTagName('body')[0].addEventListener('keypress',function(event){ if(event.key=='/'){ window.location = ' https://www.google.com/'; } });</script> 
